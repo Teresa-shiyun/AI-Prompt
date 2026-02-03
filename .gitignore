@@ -15,3 +15,6 @@ build/
 
 # OS files
 .DS_Store
+
+.env.local
+frontend/.env.local
