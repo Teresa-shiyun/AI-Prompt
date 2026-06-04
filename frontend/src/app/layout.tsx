@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Prompt Tool",
-  description: "AI Prompt Engineering and Optimization Platform",
+  title: "AI Prompt Workspace",
+  description: "Prototype workspace for organising, testing and comparing prompts.",
 };
 
 export default function RootLayout({
