@@ -77,7 +77,7 @@ docker compose -f infra/docker-compose.yml --env-file .env up
 
 ## Screenshots / Results Preview
 
-TODO: add screenshots for the dashboard, prompt editor and evaluation pages.
+![AI Prompt Workspace dashboard](docs/assets/ai-prompt-dashboard.png)
 
 ## Future Improvements / 后续改进
 
